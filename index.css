@@ -1,0 +1,105 @@
+body {color: #ffff;background-image: url("imag/fundo3.jpeg") ;
+background-position: 100%; background-size: cover; font-family: Arial, Helvetica, sans-serif; background-repeat: ; background-position: justify}
+
+ul {display: flex; justify-content: space-between; list-style-type: none;  align-items: center; padding: 40px; }
+  
+   
+a {color: white; text-decoration: none;}
+   
+
+.center img {width: 200px; height: 200px; border: 3px solid; border-radius: 10%; color: rgb(2, 60, 252)}
+ 
+
+.center img{ width: 200px 400px; border-radius: 15% plum;}
+.center {text-align: center; }
+
+h1 {color: rgb(18, 231, 221); font-size: 50px;}
+
+.name h1{ padding: 0px 10px; text-decoration: solid; font-size: 40px;}
+.name h4 {padding: 1px 30x;  font-family: 'Courier New', Courier, monospace;
+    color: rgb(13, 231, 221); text-decoration: underline;  justify-content: left; font-size: 20px;}
+
+.Formação p { font-size: 20px; padding: 50% 50;}
+
+.container { padding: 0px 50px;}
+.container.principal { list-style-type: square; padding: 10px 70px;}
+
+nav a:hover {color: purple;}
+
+h1 {padding: 1px 40px; text-decoration: underline;}
+h2 {padding: 1px 40px; text-decoration: square;}
+h3 {padding: 1px 40px; text-decoration: square;}
+h4 {padding: 3px 40px; text-decoration: underline; font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;}
+
+
+main h1 {margin: 20px; height: 90px;
+    padding: 1px 40px; text-decoration: underline; 
+    color: rgb(18, 231, 221);}
+
+.retorne {color: rgb(18, 231, 221);
+    list-style-type: square;
+    text-decoration: underline rgb(18, 231, 221);
+color: rgb(18, 231, 221); text-decoration: rgb(18, 231, 221);}
+
+section perfil {padding: 1px 30px; text-align: left;}
+*//pagina formação
+
+.Formação li{text-align: center; align-items: center;}
+
+
+
+.perfil{text-align: left; align-items: center;}
+.perfil p{margin: 5px 6px;}
+
+*//pagina projeto**//
+
+.perfilprojetos {text-align:justify ; align-items:center;}
+.perfilprojetos img{border-radius: 20%;
+    border: 3px solid rgb(68, 18, 231); }
+.apresentacao h2{margin: 20px; text-align: center;}
+    .apresentacao p{text-align: center; font: size 30px; }
+
+.perfilprojetos p{margin:  30px; font-size: 30px; color: #ffff;}
+.perfilprojetos h2{text-align:center; font-size: 50px; color: rgb(225, 218, 225); font-family: Verdana, Geneva, Tahoma, sans-serif; ;text-decoration: underline;}
+.perfilprojetos img{border-radius: 2%; color: aquamarine; width: 1000px; right: 1000px; margin: 20px; text-align: center;}
+.perfilprojetos h3{text-align:left; font-size: 50px; color: rgb(225, 218, 225); font-family: Verdana, Geneva, Tahoma, sans-serif; ;text-decoration:dotted ;}
+
+
+section h4 {padding: 1px 30px; color: rgb(18, 231, 221) ;
+     text-decoration: solid ; }
+
+section p  {padding: 0px 30px; 
+margin: 2px 4px 2px 4px}
+
+ 
+.container.principal {margin-left: 50%;}
+
+
+
+footer img {width: 60px;  height: 60px; border-radius: 20%;
+border: 3px solid rgb(18, 231, 221); margin: 10px;}
+
+footer {display: flex; justify-content: center; margin: 30px;}
+
+footer a:hover {margin: 20px; text-align: center;}
+
+div class.container.principal {margin-left: 50%;}
+
+.container h1 {text-align: center; margin: 20px;}
+
+.Formação p {padding: 3px; margin: 0px;}
+.Formação h5 {padding: 0px; text-align: justify; text-decoration: underline; color: whitesmoke;}
+.Formação h1{ padding: 0px 10px; text-decoration: solid; font-size: 40px;}
+.Formação h3 {padding: 0px; color:rgb(163, 248, 248); text-align:justify ; text-decoration:solid ;}
+.Formação h4 {padding: 0px; color:rgb(163, 248, 248); text-align:justify ; text-decoration:solid }
+
+
+.projeto h2 {padding: 3px 5px; margin: 20px 30px 40px 20px; text-align: left; text-decoration: underline;}
+
+.text h5 {padding: 6px; margin: 10px; text-decoration: underline; text-align:justify ; color: antiquewhite;}
+.text p {margin: 5px;}
+
+.retorne {text-align: center;text-decoration: underline; color: blueviolet; margin: 10px 20px; font-size: 20px; border-radius: 0,5%;}
+
+
+
